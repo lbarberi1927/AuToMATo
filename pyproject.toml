@@ -3,7 +3,7 @@ name = "automato"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.9"
 dependencies = [
     "gudhi==3.9.0",
     "igraph==0.11.5",
@@ -41,7 +41,7 @@ dev = [
     "giotto-tda>=0.6.0",
     "gudhi==3.9.0",
     "igraph==0.11.5",
-    "ipython==8.24.0 ; python_full_version >= '3.10'",
+    #"ipython==8.24.0 ; python_full_version >= '3.10'",
     "ipywidgets==8.1.2 ; python_full_version >= '3.7'",
     "jedi==0.19.1 ; python_full_version >= '3.6'",
     "joblib==1.4.2 ; python_full_version >= '3.8'",
